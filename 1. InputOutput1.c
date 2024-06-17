@@ -1,3 +1,4 @@
+// write a program to get name, DOB and Contact No from the user.
 #include<stdio.h>
 #include<string.h>
 
